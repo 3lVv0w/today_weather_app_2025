@@ -1,0 +1,46 @@
+{
+  "coord": {
+    "lon": 100.5018,
+    "lat": 13.7563
+  },
+  "weather": [
+    {
+      "id": 803,
+      "main": "Clouds",
+      "description": "broken clouds",
+      "icon": "04d"
+    }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 303.46,
+    "feels_like": 303.46,
+    "temp_min": 303.1,
+    "temp_max": 303.67,
+    "pressure": 1011,
+    "humidity": 42,
+    "sea_level": 1011,
+    "grnd_level": 1010
+  },
+  "visibility": 10000,
+  "wind": {
+    "speed": 4.45,
+    "deg": 39,
+    "gust": 5.52
+  },
+  "clouds": {
+    "all": 60
+  },
+  "dt": 1763198932,
+  "sys": {
+    "type": 2,
+    "id": 2105433,
+    "country": "TH",
+    "sunrise": 1763162268,
+    "sunset": 1763203652
+  },
+  "timezone": 25200,
+  "id": 1608132,
+  "name": "Nonthaburi",
+  "cod": 200
+}
